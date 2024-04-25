@@ -1,0 +1,13 @@
+@font-face {
+    font-family: AbhayaLibre;
+    font-style: oblique;
+    src: url(./AbhayaLibre-ExtraBold.ttf);
+}
+
+.text-footer{
+    font-family:AbhayaLibre;
+    color:#4F9D8E;
+    text-align:center;
+    width:100%;
+    
+}

@@ -1,0 +1,22 @@
+.panel-edit{
+    font-family: AbhayaLibre !important;
+    font-style: normal;
+    margin-top: 25vh;
+    background-color:#E1E1E1;
+    font-weight:bold;
+    border-radius:20px;
+    padding:50px;
+    display: flex;
+    flex-direction:column;
+    width: 30vW;
+    /* margin-left: 10vw; */
+    box-shadow: 0px 3px 5px rgb(0, 27, 14, 0.5);
+    z-index:1;
+  }
+
+  .main-edit{
+    background-color:#212529;
+    align-self: center;
+    align-items: center;
+    align-content: center;
+  }
